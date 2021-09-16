@@ -5,8 +5,7 @@ Visual composer prestashop module phar RCE
 - Check version : /modules/jscomposer/config.xml
 - Version < 4.18
 
-![](./alert.png)
-![](./alert2.png)
+- The support answer both vulns are fixed in version 4.18
 
 
 ## PHAR unserialize

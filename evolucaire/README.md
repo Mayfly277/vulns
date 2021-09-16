@@ -19,6 +19,4 @@
 
 ![](./run2.png)
 
-- Support answer, the vuln is fixed :
-
-![](./alert.png)
+- Support answer, the vuln is fixed in 8.5.0
